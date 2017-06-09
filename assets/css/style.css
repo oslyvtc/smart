@@ -1034,6 +1034,10 @@ input[name="slider__radio"]:checked+.radio__button_styled {
 		width: 100%;
 	}
 
+	.newletter__input {
+		width: calc(100% - 120px);
+	}
+
 }
 
 @media screen and (max-width: 800px) {
@@ -1066,4 +1070,3 @@ input[name="slider__radio"]:checked+.radio__button_styled {
 	}
 
 }
-
