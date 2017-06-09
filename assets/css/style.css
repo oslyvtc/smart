@@ -1065,16 +1065,5 @@ input[name="slider__radio"]:checked+.radio__button_styled {
 		margin-bottom: 15px;
 	}
 
-	.error-container-no-mob {
-		display: none !important;
-	}
-
-	.error-container-mob {
-		display: block;
-	}
-
 }
 
-.error-container-mob {
-	display: none;
-}
